@@ -1,2 +1,2 @@
 welcome to all
-welcome all to devops class
+welcome to all devops class
